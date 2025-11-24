@@ -1,5 +1,4 @@
-import { test } from '@playwright/test';
-
+/*import { test } from '@playwright/test';
 import './login.spec.ts';
 import '../tests/signup.spec.ts';
 
@@ -8,3 +7,4 @@ test.describe.parallel('Full Authentication Suite (login + signup)', () => {
     console.log('Running login.spec.ts + signup.spec.ts inside one suite...');
   });
 });
+*/
